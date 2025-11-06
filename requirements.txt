@@ -2,6 +2,3 @@ nicegui>=2.0
 numpy>=1.26
 scipy>=1.11
 latex2mathml>=3.76
-typing
-dataclasses
-math
