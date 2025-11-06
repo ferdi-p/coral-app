@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="123.2734mm"
+   height="11.1125mm"
+   viewBox="0 0 123.2734 11.1125"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   sodipodi:docname="diagram-2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.7445034"
+     inkscape:cx="193.29544"
+     inkscape:cy="2.7327348"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="1470"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle_Fnone_S-000000"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-28.907411,-34.550491)">
+    <g
+       data-cell-id="wnHs5OymK3r1SgEiZeFX-1"
+       id="g4"
+       transform="matrix(0.26458333,0,0,0.26458333,34.745789,-2.2265922)"
+       inkscape:export-filename="diagram.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g1">
+        <rect
+           x="90"
+           y="140"
+           width="40"
+           height="40"
+           rx="6"
+           ry="6"
+           fill="#ffffff"
+           stroke="#000000"
+           stroke-width="2"
+           pointer-events="all"
+           id="rect1-7" />
+      </g>
+    </g>
+    <g
+       data-cell-id="wnHs5OymK3r1SgEiZeFX-2"
+       id="g8"
+       transform="matrix(0.26458333,0,0,0.26458333,34.745789,-2.2265922)">
+      <g
+         id="g5">
+        <rect
+           x="170"
+           y="140"
+           width="40"
+           height="40"
+           rx="6"
+           ry="6"
+           fill="#ffffff"
+           stroke="#000000"
+           stroke-width="2"
+           pointer-events="all"
+           id="rect4" />
+      </g>
+    </g>
+    <g
+       data-cell-id="wnHs5OymK3r1SgEiZeFX-28"
+       id="g76"
+       transform="matrix(0.26458333,0,0,0.26458333,28.907411,2.5329548)">
+      <g
+         id="g73">
+        <rect
+           x="0"
+           y="130"
+           width="90"
+           height="30"
+           fill="none"
+           stroke="none"
+           pointer-events="all"
+           id="rect72" />
+      </g>
+      <g
+         id="g75">
+        <g
+           id="g74"
+           transform="translate(1.6789584,-3.3579169)">
+          <switch
+             id="switch73">
+            <foreignObject
+               style="overflow: visible; text-align: left;"
+               pointer-events="none"
+               width="100%"
+               height="100%"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 145px; margin-left: 1px;">
+                <xhtml:div
+                   style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                  <xhtml:div
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                    <xhtml:div>recruitment</xhtml:div>
+                  </xhtml:div>
+                </xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               x="45"
+               y="149"
+               fill="light-dark(#000000, #ffffff)"
+               font-family="Helvetica"
+               font-size="12px"
+               text-anchor="middle"
+               id="text73">recruitment</text>
+          </switch>
+        </g>
+      </g>
+    </g>
+    <g
+       data-cell-id="wnHs5OymK3r1SgEiZeFX-29"
+       id="g80"
+       transform="matrix(0.26458333,0,0,0.26458333,43.701644,1.1295438)">
+      <g
+         id="g77">
+        <rect
+           x="300"
+           y="130"
+           width="110"
+           height="30"
+           fill="none"
+           stroke="none"
+           pointer-events="all"
+           id="rect76" />
+      </g>
+      <g
+         id="g79">
+        <g
+           id="g78">
+          <switch
+             id="switch77">
+            <foreignObject
+               style="overflow: visible; text-align: left;"
+               pointer-events="none"
+               width="100%"
+               height="100%"
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+              <xhtml:div
+                 style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 108px; height: 1px; padding-top: 145px; margin-left: 301px;">
+                <xhtml:div
+                   style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+                  <xhtml:div
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                    <xhtml:div>maturation</xhtml:div>
+                  </xhtml:div>
+                </xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+            <text
+               x="355"
+               y="149"
+               fill="light-dark(#000000, #ffffff)"
+               font-family="Helvetica"
+               font-size="12px"
+               text-anchor="middle"
+               id="text77">maturation</text>
+          </switch>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g9"
+       transform="matrix(0.26458333,0,0,0.26458333,34.745789,-2.2265922)">
+      <rect
+         x="270"
+         y="140"
+         width="40"
+         height="40"
+         rx="6"
+         ry="6"
+         fill="#ffffff"
+         stroke="#000000"
+         stroke-width="2"
+         pointer-events="all"
+         id="rect8" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:5.21687px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:0.945098"
+       x="64.273621"
+       y="41.825752"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="64.273621"
+         y="41.825752"
+         style="font-style:italic;fill:#000000;fill-opacity:1;stroke-width:0">J<tspan
+   style="font-size:3.39096px;baseline-shift:sub;stroke-width:0"
+   id="tspan4">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.5411px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:0.945098"
+       x="73.222221"
+       y="37.584682"
+       id="text2-3"><tspan
+         sodipodi:role="line"
+         id="tspan2-6"
+         x="73.222221"
+         y="37.584682"
+         style="font-style:italic;fill:#000000;fill-opacity:1;stroke-width:0">r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.21687px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:0.945098"
+       x="85.062294"
+       y="41.775452"
+       id="text2-7"><tspan
+         sodipodi:role="line"
+         id="tspan2-4"
+         x="85.062294"
+         y="41.775452"
+         style="font-style:italic;fill:#000000;fill-opacity:1;stroke-width:0">J<tspan
+   style="font-size:3.39096px;baseline-shift:sub;stroke-width:0"
+   id="tspan4-4">2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.21687px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:0.945098"
+       x="112.00283"
+       y="41.547405"
+       id="text2-7-3"><tspan
+         sodipodi:role="line"
+         id="tspan2-4-0"
+         x="112.00283"
+         y="41.547405"
+         style="font-style:italic;fill:#000000;fill-opacity:1;stroke-width:0">J<tspan
+   style="font-size:3.39096px;baseline-shift:sub;stroke-width:0"
+   id="tspan4-4-6">n</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.5411px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-opacity:0.945098"
+       x="121.60081"
+       y="37.715569"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         x="121.60081"
+         y="37.715569"
+         style="font-style:italic;fill:#000000;fill-opacity:1;stroke-width:0">r</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-000000)"
+       d="m 69.141622,40.097912 8.636934,-0.01441"
+       id="path7"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g4" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-000000)"
+       d="m 49.757526,40.11623 6.820864,-0.0095"
+       id="path8"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:2, 0.5;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-000000)"
+       d="m 90.308288,40.106741 14.082952,-0.06876"
+       id="path9"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle_Fnone_S-000000)"
+       d="m 116.76662,40.106741 10.92056,-0.117433"
+       id="path10"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
